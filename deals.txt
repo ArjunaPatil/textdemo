@@ -1,0 +1,19 @@
+{
+  "isError": false,
+  "errorMessage": "",
+  "result": {
+    "dataCount": 10,
+    "data": [
+      {
+        "id": 1,
+        "name": "ahbvhb",
+        "address": "sgvve"
+      },
+      {
+        "id": 2,
+        "name": "kjidwqeqf",
+        "address": "bguddw"
+      }
+    ]
+  }
+}
